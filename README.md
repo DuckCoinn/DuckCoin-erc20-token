@@ -1,9 +1,9 @@
 # DuckCoin Token (DuckCoin)
 DuckCoin-issued ERC20 public smart contract repository.
 
-https://DuckCoin.io
+https://duckcoin.site/
 
-The whitepaper can be found [here](http://DuckCoin.io/).
+The whitepaper can be found [here](https://duckcoin.site/).
 
 ## Address
 
